@@ -1,2 +1,2 @@
 # CAP4630-Wocjan
-Artificial Intelligence class
+Artificial Intelligence class content
